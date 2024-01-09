@@ -1,0 +1,7 @@
+WPy64-31160/n/
+WPy64-31160/python-3.11.6.amd64/
+WPy64-31160/scripts/
+WPy64-31160/settings/
+WPy64-31160/t/
+# Ignorar todos los archivos .exe dentro de la carpeta WPy64-31160
+WPy64-31160/**/*.exe
